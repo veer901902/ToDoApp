@@ -1,0 +1,28 @@
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.input-field {
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  font-size: 16px;
+  /* flex-basis: 400px; */
+  width: 400px;
+}
+
+.submit-button {
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+  margin-left: 20px;
+}
